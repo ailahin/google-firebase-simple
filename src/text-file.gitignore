@@ -1,3 +1,4 @@
 # Ignore Firebase initialization file
-firebase.init.js
+src/componenents/Firebase/firebase.init.js
+
 firebase
